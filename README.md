@@ -37,14 +37,14 @@ function components() {
 ```html
 <c-component1>
   <h1>
-    <p>${ message }</p>
+    <span>${ message }</span>
   </h1>
   
   <div>Повседневная практика показывает, что реализация намеченных плановых заданий представляет собой интересный эксперимент проверки модели развития.</div>
 
   <style>
     h1 {
-      p {
+      span {
         color: red;
       }
     }
@@ -69,14 +69,14 @@ function components() {
 ```html
 <c-component1>
   <h1>
-    <p>${ message }</p>
+    <span>${ message }</span>
   </h1>
   
   <div>Повседневная практика показывает, что реализация намеченных плановых заданий представляет собой интересный эксперимент проверки модели развития.</div>
 
   <style>
     h1
-      p
+      span
         color: red
   </style>
 
