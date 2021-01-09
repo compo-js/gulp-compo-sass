@@ -1,6 +1,6 @@
 # gulp-compo-sass
 
-**Gulp** plugin for using the **Sass** preprocessor in **[Compo.js](http://compojs.ru/)**
+**Gulp** plugin for using the **Sass** preprocessor in **[CompoJS](http://compojs.ru/)**
 
 ## Install
 
