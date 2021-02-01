@@ -1,6 +1,6 @@
 {
   "name": "gulp-compo-sass",
-  "version": "3.5.3",
+  "version": "3.5.6",
   "description": "Gulp plugin for using the Sass preprocessor in Compo.js",
   "main": "index.js",
   "scripts": {
