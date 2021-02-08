@@ -92,11 +92,6 @@ function components() {
 </c-component1>
 ```
 
-## Download
-
-- **[new-sass.zip](http://compojs.ru/dist/files/new-sass.zip)**
-
-
 ## Author
 
 - **[compojs.ru](http://www.compojs.ru)**
